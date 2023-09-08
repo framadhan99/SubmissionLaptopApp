@@ -1,0 +1,139 @@
+<resources>
+    <string name="app_name">SubmissionLaptopApp</string>
+    <string name="item_name">Nama Item</string>
+    <string name="item_price">Harga Item</string>
+    <string name="item_description">Deskripsi Item</string>
+    <string name="title_spec">Spesifikasi :</string>
+    <string name="item_specification">Spesifikasi</string>
+    <string name="share">Bagikan</string>
+    <string name="about">Tentang Saya</string>
+
+    <string-array name="data_name">
+        <item>Vivobook 14</item>
+        <item>Vivobook Pro 14X</item>
+        <item>Vivobook Pro 15X</item>
+        <item>Zenbook 14 X</item>
+        <item>Zenbook 16 X</item>
+        <item>Zenbook Pro 14</item>
+        <item>Zenbook S 13</item>
+        <item>Vivobook 13</item>
+        <item>Vivobook 15</item>
+        <item>Pro Art Studiobook</item>
+    </string-array>
+
+    <string-array name="data_price">
+        <item>~Rp13.350.000</item>
+        <item>~Rp33.799.000</item>
+        <item>~Rp35.900.000</item>
+        <item>~Rp36.799.000</item>
+        <item>~Rp29.330.000</item>
+        <item>~Rp23.775.000</item>
+        <item>~Rp18.435.000</item>
+        <item>11.799.000</item>
+        <item>~Rp34.699.000</item>
+        <item>~Rp40.349.000</item>
+    </string-array>
+
+    <string-array name="data_description">
+       <item>ASUS VivoBook Ultra 14 K413 menambah bakat dan dinamika dalam komputasi harian. Dengan
+            prosesor Intel® Core™ i7, VivoBook Ultra 14 memberikan daya yang Anda butuhkan untuk
+            menyelesaikan sesuatu.
+        </item>
+        <item>Kobarkan kreativitas Anda dengan Vivobook Pro 14X OLED, perangkat bertenaga yang tak
+            kenal kompromi untuk menemukan potensi Anda dan menjelajahi masa depan. Vivobook Pro 14X
+            OLED menghadirkan kecepatan dan akurasi yang Anda butuhkan untuk mewujudkan visi Anda,
+            dengan layar NanoEdge OLED 1 14 inci beresolusi 2,8K, CPU Intel® H Series Generasi
+            ke-11, dan grafis NVIDIA® GeForce RTX® 3050. ASUS DialPad eksklusif memberi Anda kontrol
+            yang presisi dan intuitif atas creative tools Anda, dan desain sistem pendingin berkipas
+            ganda memungkinkan Anda bekerja dengan tenang tanpa gangguan. Vivobook Pro 14X OLED
+            membuka pintu menuju masa depan kreatif Anda.
+        </item>
+        <item>Biarkan Vivobook Pro 15X OLED tanpa kompromi melepaskan kekuatan kreatif Anda! Anda
+            akan menikmati kinerja yang mudah dari prosesor Intel® Core™ H-series Generasi ke-12 dan
+            NVIDIA® GeForce RTX® 3060 GPU2, sehingga Anda dapat mengubah ide menjadi kenyataan lebih
+            cepat dari sebelumnya, dan NanoEdge 15,6 inci 2,8K 120 Hz3 NanoEdge Layar OLED akan
+            memanjakan mata Anda dengan warna yang cerah dan akurat. Anda dapat berkreasi dalam
+            ketenangan yang tenang berkat kipas ganda, sistem pendingin dengan empat ventilasi, dan
+            baterai 76 Wh berkapasitas tinggi memberikan daya yang andal dan dapat diandalkan untuk
+            pembuatan konten, di mana pun Anda berada. Berikan kreativitas Anda kekuatan yang layak
+            dengan Vivobook Pro 15X OLED!
+        </item>
+        <item>Zenbook 14X OLED Space Edition adalah laptop luar biasa yang sangat istimewa untuk
+            memperingati 25 tahun laptop ASUS pertama yang dikirim ke luar angkasa. Ini adalah
+            desain edisi khusus yang bergengsi, dengan menampilkan grafis bertema luar angkasa yang
+            memukau pada bagian depan dan keyboard, dan ada juga layar ZenVision pendamping OLED 3,5
+            inci yang futuristik pada bagian depan yang menampilkan notofikiasi, animasi, atau teks
+            yang dapat dipersonalisasi. Untuk visual yang luar biasa, ia memiliki layar 14 inci OLED
+            dengan rasio 16:10, beresolusi 4K, NanoEdge Display, dan tervalidasi PANTONE®1,2 dengan
+            screen-to-body ratio yang luar biasa sebesar 92%, serta bersertifikasi TÜV Rheinland
+            untuk perawatan mata Anda. Bersiaplah untuk menjelajahi visi baru, dan mulailah
+            perjalanan untuk mengeksplorasi kosmik Anda!
+        </item>
+        <item>Zenbook Pro 16X OLED adalah laptop kreator luar biasa dengan banyak fitur desain
+            inovatif dan desain all-metal baru. Menggunakan layar sentuh 16:10 4K OLED HDR NanoEdge
+            terdepan di dunia1,dan didukung oleh prosesor Intel®Core™ Generasi ke-12 dan GPU NVIDIA®
+            GeForce RTX™ 3060. Mekanisme Active Aerodynamic System Ultra (AAS Ultra) yang baru
+            menggerakkan keyboard yang dapat dimiringkan otomatis yang memastikan sudut pengetikan
+            yang nyaman, dan sistem juga meningkatkan pendinginan sistem untuk kinerja maksimum. Ada
+            sistem pencahayaan cerdas RGB Putih baru yang memungkinkan fitur interaktivitas cerdas.
+            ASUS Dial yang inovatif memungkinkan kontrol ujung jari yang tepat dari parameter
+            kreatif dalam aplikasi Adobe® sedangkan ASUS NumberPad baru yang lebih besar menampilkan
+            umpan balik haptic dan sensitivitas tekanan yang ditingkatkan untuk entri nomor yang
+            lebih mudah. Zenbook Pro 16X OLED mengubah apa yang seharusnya menjadi laptop kreator,
+            dan membantu Anda meningkatkan kreativitas Anda.
+        </item>
+        <item>Bersiap untuk kehadiran Zenbook Pro 14 Duo OLED! Ditenagai oleh Intel Core i7-12700H
+            Generasi ke-12 yang memungkinkan Anda untuk menyalurkan kreativitas Anda secara
+            maksimal. Menggunakan teknologi ASUS IceCool Plus, membuat CPU dan GPU tetap dingin,
+            bahkan untuk kinerja ekstrem sekalipun, yang juga dilengkapi oleh mekanisme AAS Ultra,
+            dimana membuat sirkulasi pada sasis menjadi lebih baik dan sekaligus memiringkan
+            touchscreen ScreenPad™ Plus ke sudut yang nyaman untuk pengalaman visual yang imersif.
+            Untuk visual kelas studio, layar sentuh2 utama 2.8K OLED HDR 16:10 memiliki kecepatan
+            refresh 120Hz yang mulus, akurasi warna yang sudah PANTONE® validated, dan cinema-grade
+            100% DCI-P3 color gamut. Zenbook Pro 14 Duo OLED membuat para pesaingnya menjadi bukan
+            apa-apa, menjadikannya laptop OLED yang ringas ini terbaik untuk para kreator.
+        </item>
+        <item>Cerahkan hidup Anda dengan Zenbook S 13 OLED yang sangat tipis dan super ringan!
+            Kehebatan laptop dengan ketipisan 1 cm2 dan bobot 1 kg3 ini, menggunakan prosesor Intel®
+            Core™ generasi ke-13 yang efisien, serta layar NanoEdge4 berukuran 13,3 inci 16:10 2.8K
+            OLED HDR yang luar biasa menghadirkan visual yang brilian bagi Anda. ASUS sepenuhnya
+            berkomitmen untuk berinovasi yang bertujuan untuk mendukung planet bumi yang lebih
+            sehat, maka itu kami juga menjadikan Zenbook S 13 OLED sebagai Zenbook paling ramah
+            lingkungan yang pernah ada, dimana sejalan dengan nilai-nilai utama kami. More care,
+            less impact!
+        </item>
+        <item>Tingkatkan hidup Anda dengan Vivobook 13 Slate OLED, pendamping menyenangkan yang lebih dari sekadar laptop, dengan desain multi-mode yang inovatif! Perangkat super serbaguna ini akan memukau mata dan telinga Anda dengan kualitas video sinematik dan suara Dolby Atmos® yang imersif, dan ASUS Pen 2.01 akan melepaskan kreativitas Anda. Dimanapun Anda berada, dan apapun yang ingin Anda lakukan, Vivobook 13 Slate OLED siap membawa Anda melampaui laptop!
+        </item>
+        <item>Tunjukkan gaya Anda ke seluruh dunia dengan ASUS Vivobook 15, laptop berfitur lengkap yang memudahkan Anda menyelesaikan berbagai hal, di mana saja. Segala sesuatu tentang Vivobook 15 berani dan ditingkatkan, dari prosesor Intel® Core™ Generasi ke-12 yang kuat hingga tampilan yang tajam dan jernih, engsel datar 180°, warna modern, dan desain geometris yang ramping. Memulai awal yang baru hari ini dengan Vivobook 15!
+        </item>
+        <item>Wujudkan kreativitas menjadi realita dengan ProArt Studiobook 16 OLED. Laptop yang melampaui batasan tertinggi untuk memberikan pengalaman untuk berkreasi sesuai dengan apa yang Anda inginkan yang tidak pernah anda dapatkan sebelumnya. Dengan akurasi warna yang tersertifikasi pada tampilan layar 16” 4K 16:10 OLED HDR, ditambah dengan Intel® Core™ i7 processor, grafis NVIDIA® GeForce RTX™ 3060 yang sangat kuat, kapasitas memory yang besar, ultrafast storage yang canggih, I/O connectivity yang cepat, mengelola aplikasi kreatif dengan fingertip control yang sangat presisi, dengan ASUS Dial terbaru yang menjadi terobosan terbaru bagi kami. Secara singkat, ProArt Studiobook 16 OLED merupakan Laptop Kreator terbaik yang pernah kami buat!
+        </item>
+    </string-array>
+
+    <integer-array name="data_image">
+        <item>@drawable/vivobook_14</item>
+        <item>@drawable/vivobook_pro_14x</item>
+        <item>@drawable/vivobook_pro_15x</item>
+        <item>@drawable/zenbook_14x</item>
+        <item>@drawable/zenbook_16x</item>
+        <item>@drawable/zenbook_pro_14</item>
+        <item>@drawable/zenbook_s_13</item>
+        <item>@drawable/vivobook_13</item>
+        <item>@drawable/vivobook_15</item>
+        <item>@drawable/pro_art_studiobook</item>
+    </integer-array>
+
+    <string-array name="data_link">
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+        <item>https://www.asus.com/id/laptops/for-home/all-series/</item>
+
+    </string-array>
+</resources>
